@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "./static/js/main.b17c7278.js",
+    "static/js/787.b55f28f3.chunk.js": "./static/js/787.b55f28f3.chunk.js",
+    "static/media/pizza-day.jpg": "./static/media/pizza-day.b319f81e7146617dd06e.jpg",
+    "static/media/product3.jpg": "./static/media/product3.e8a98ae821349bbca73e.jpg",
+    "static/media/pizza-show.jpg": "./static/media/pizza-show.38e3c7bf7e48a5faaf0a.jpg",
+    "static/media/product1.jpg": "./static/media/product1.ac7785714b408c3324b6.jpg",
+    "static/media/pizza-doce-3.jpg": "./static/media/pizza-doce-3.e2571669f24a6e74c7e9.jpg",
+    "static/media/product2.jpg": "./static/media/product2.cb3efeae542928583a69.jpg",
+    "static/media/pizza-doce-1.jpg": "./static/media/pizza-doce-1.d3940c7b6c112fb5e4c7.jpg",
+    "static/media/pizza-doce-2.jpg": "./static/media/pizza-doce-2.3d4a9e4f7356ebf902f3.jpg",
+    "index.html": "./index.html",
+    "main.b17c7278.js.map": "./static/js/main.b17c7278.js.map",
+    "787.b55f28f3.chunk.js.map": "./static/js/787.b55f28f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b17c7278.js"
+  ]
+}
